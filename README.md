@@ -1,8 +1,27 @@
 # ac-book
-基于PHP的图书管理系统
-应用mysql数据库开发
-应用apache服务器开发
+# 图书管理系统
 
-yii2框架
+> 这个图书管理系统是我的PHP时写的一个练手项目，功能参考了自己学校的图书管理系统。为了锻炼自己的动手能力以及加深对代码的理解，对php项目MVC的设计模式有了更深的理解，总体来说还是比较简陋的，在某些地方可能存在缺陷或者漏洞。
 
-可搜索，添加，作者，价格等信息
+### 基本功能
+
+- 管理图书，增删改查
+
+### 特点
+
+- 技术选型PHP+Yii2+Mysql+Apache
+- 后端采用MVC的思想
+
+### 部署注意事项
+
+1. 采用xampp集成的apache和mysql进行开发
+
+2. 为了防止端口冲突把8080默认端口改成8081http://localhost:8081/yii2/basic/web/index.php?r=library
+
+3. mvc模式
+
+   ![1645969511379](C:\Users\ht\AppData\Roaming\Typora\typora-user-images\1645969511379.png)
+
+   ![1645969409984](C:\Users\ht\AppData\Roaming\Typora\typora-user-images\1645969409984.png)
+
+![1645969376595](C:\Users\ht\AppData\Roaming\Typora\typora-user-images\1645969376595.png)
