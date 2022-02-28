@@ -25,8 +25,8 @@
 
 3. mvc模式
 
-   ![1646042778(1)](https://github.com/acctv/ac-book/blob/main/1646042778(1).jpg)
+   ![图1](https://github.com/acctv/ac-book/blob/main/1.jpg)
 
-   ![1646042863(1)](C:\Users\ht\Desktop\1646042863(1).jpg)
+   ![图2](https://github.com/acctv/ac-book/blob/main/2.jpg)
 
-![1646042883(1)](C:\Users\ht\Desktop\1646042883(1).jpg)
+![图3](https://github.com/acctv/ac-book/blob/main/3.jpg)
