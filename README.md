@@ -1,4 +1,9 @@
+
+
+
+
 # ac-book
+
 # 图书管理系统
 
 > 这个图书管理系统是我的PHP时写的一个练手项目，功能参考了自己学校的图书管理系统。为了锻炼自己的动手能力以及加深对代码的理解，对php项目MVC的设计模式有了更深的理解，总体来说还是比较简陋的，在某些地方可能存在缺陷或者漏洞。
@@ -20,8 +25,8 @@
 
 3. mvc模式
 
-   ![1645969511379](C:\Users\ht\AppData\Roaming\Typora\typora-user-images\1645969511379.png)
+   ![1646042778(1)](C:\Users\ht\Desktop\1646042778(1).jpg)
 
-   ![1645969409984](C:\Users\ht\AppData\Roaming\Typora\typora-user-images\1645969409984.png)
+   ![1646042863(1)](C:\Users\ht\Desktop\1646042863(1).jpg)
 
-![1645969376595](C:\Users\ht\AppData\Roaming\Typora\typora-user-images\1645969376595.png)
+![1646042883(1)](C:\Users\ht\Desktop\1646042883(1).jpg)
