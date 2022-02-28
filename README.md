@@ -25,7 +25,7 @@
 
 3. mvc模式
 
-   ![1646042778(1)](C:\Users\ht\Desktop\1646042778(1).jpg)
+   ![1646042778(1)](https://github.com/acctv/ac-book/blob/main/1646042778(1).jpg)
 
    ![1646042863(1)](C:\Users\ht\Desktop\1646042863(1).jpg)
 
